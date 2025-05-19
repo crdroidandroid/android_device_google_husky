@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "crdroidandroid/android_device_google_shusky",
+    "target_path": "device/google/shusky"
+  },
+  {
+    "repository": "crdroidandroid/proprietary_vendor_google_husky",
+    "target_path": "vendor/google/husky",
+    "remote": "crdroid-gitlab",
+    "branch": "15.0"
+  }
+]
