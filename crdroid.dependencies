@@ -4,9 +4,8 @@
     "target_path": "device/google/shusky"
   },
   {
-    "repository": "crdroidandroid/proprietary_vendor_google_husky",
+    "repository": "TheMuppets/proprietary_vendor_google_husky",
     "target_path": "vendor/google/husky",
-    "remote": "crdroid-gitlab",
-    "branch": "15.0"
+    "branch": "lineage-23.0"
   }
 ]
