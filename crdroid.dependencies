@@ -6,6 +6,6 @@
   {
     "repository": "TheMuppets/proprietary_vendor_google_husky",
     "target_path": "vendor/google/husky",
-    "branch": "lineage-23.0"
+    "branch": "lineage-23.2"
   }
 ]
